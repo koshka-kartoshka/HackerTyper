@@ -10,7 +10,7 @@ int main()
     const int WINDOW_WIDTH = 1000;
     const int WINDOW_HEIGHT = 500;
 
-	  int count = 0;
+    int count = 0;
     string visibleText = new char[len + 1];
     string buf = buffer;    
 
